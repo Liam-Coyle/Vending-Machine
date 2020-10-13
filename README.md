@@ -12,3 +12,14 @@ On the main menu, enter choice 987 to show the engineer menu. (This password can
 	<li>Switch mode to VENDING_MODE (To allow users to purchase goods) via the 'Switch Mode' option.</li>
 	<li>Enter user mode via the 'User view' option.</li>
 </ol>
+
+# Gallery
+# Engineer Menu
+![EngineerMenu](/images/EngineerMenu.png)
+
+# User Menu
+![UserMenu](/images/UserMenu.png)
+
+# Example of hand-written unit test output
+![TestShowcase](/images/TestShowcase.png)
+
